@@ -1,6 +1,6 @@
 
-#PDF MALWARE Detection Based on Supervised Machine Learning Model
-# IE7275_Data_Mining_in_Engineering
+# PDF MALWARE Detection Based on Supervised Machine Learning Model
+## IE7275_Data_Mining_in_Engineering
 
 Problem Setting:
 PDFs, or Portable Document Format files, have for long been the most common document format
